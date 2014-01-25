@@ -1,0 +1,31 @@
+/* CSS Document */
+
+*/
+
+html {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+body{
+    color: #6a6a6a;
+}
+
+h1 {
+    font-family: Tahoma, Geneva, sans-serif;
+    font-weight:Normal;
+    font-size: 3rem;
+    color: #000;
+}
+
+h2 {
+    font-family: Tahoma, Geneva, sans-serif;
+    font-weight:normal;
+    font-size: 2rem;
+    color: #000;
+}
+
+ul {
+    font-family: Tahoma, Geneva, sans-serif;
+    font-weight:normal;
+    font-size: 1.25rem;
+}
